@@ -3,7 +3,7 @@
 ![GitHub License](https://img.shields.io/github/license/Sambonic/diabetes-multiclassification)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 
-Diabetes multiclassification using various machine learning algorithms 
+Diabetes multiclassification using different machine learning algorithms such as Logistic Regression, Decision Trees, Random Forest and LightGBM
 #### Last Updated: January 4th, 2025
 
 ## Table of Contents
